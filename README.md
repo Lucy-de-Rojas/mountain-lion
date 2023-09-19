@@ -4,7 +4,7 @@
 <img src="./MountainLion.jpg" width="100%">
 
 
-<a href="./MountainLion.psd">Photoshop link </a>
+<a href="https://raw.github.com/Lucy-de-Rojas/MountainLion.psd" download>Photoshop link </a>
 
 <br />
 
