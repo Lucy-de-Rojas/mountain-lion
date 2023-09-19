@@ -2,6 +2,10 @@
 <h1>Mountain Lion Project</h1>
 
 
+
+<img src="./MountainLion.jpg" width="95%">
+
+
 <h2>How the collage was created:</h2>
 
 <p>
@@ -17,8 +21,6 @@ Working on this project was a delightful experience, blending technical skills w
 
 
 
-
-<img src="./MountainLion.jpg" width="95%">
 <br />
 <br />
 
